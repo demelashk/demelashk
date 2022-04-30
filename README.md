@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Demelash Kasaye
+- 🔭 I’m currently working on Junior Programmer Position ...
+- 🌱 I’m currently learning From DataCamp ...
 
 <!--
 **demelashk/demelashk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
