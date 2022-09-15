@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Demelash Kasaye
-- 🔭 I’m currently working on Junior Programmer Position ...
-- 🌱 I’m currently learning From DataCamp ...
 - 🌱 [Visit my website here.](https://demelash.pythonanywhere.com/)
 
 <!--
